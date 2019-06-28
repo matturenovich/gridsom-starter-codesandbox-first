@@ -1,2 +1,1 @@
-# gridsom-starter-codesandbox-first
-Created with CodeSandbox
+# Gridsome starter for codesandbox
